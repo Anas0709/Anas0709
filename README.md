@@ -30,12 +30,12 @@ Currently based in **Houston, TX** and building the AI agent platform at Katy IS
 
 ## 💡 What Drives Me
 
-- 🚀 **Shaping the future of tech** — building systems and tools that push what's possible
+- 🚀 **Shaping the future of tech**: building systems and tools that push what's possible
 - 🤖 **AI systems & agent frameworks**: composable agents, clear failure boundaries
 - 📐 **System design**: thinking in components, data flows, and failure modes
 - 🏗️ **Clean backend architecture**: modular, testable, maintainable
 - 🛠️ **Building internal tools and automation** that solve real problems
-- 💻 **Workflow optimization** — if it can be automated, it will be
+- 💻 **Workflow optimization**: if it can be automated, it will be
 - 🔧 **Long-term maintainability**: quality over quick wins
 - 🌱 **Growing in public**: building toward meaningful open source contributions
 
