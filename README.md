@@ -57,13 +57,15 @@ Currently based in **Houston** and building the AI agent platform at Katy ISD (8
 
 ---
 
-## 📈 Current Focus
+## 🎯 Current Projects
 
-| Project | Description |
-|---------|-------------|
-| **KISD AI Platform** | District-wide AI agent platform, multi-agent call routing, building kiosks, drone surveillance |
-| **MedGrid** | AI-powered medical education gaming platform, 1,200+ students, RAG-driven adaptive learning |
-| **Enterprise Intelligence Agent** | Backend AI chatbot with SQL analytics, churn prediction, Dockerized FastAPI |
+### 🚀 Active Development
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| **Hekimarisk** | AI-powered platform | 🚧 In Progress |
+| **MedGrid** | AI-powered medical education platform with RAG-driven adaptive learning, 1,200+ students | 🚧 In Progress |
+| **Katy ISD** | District-wide AI agent platform: multi-agent call routing, building kiosks, drone surveillance | 🚧 In Progress |
 
 ---
 
