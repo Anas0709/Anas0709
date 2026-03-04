@@ -4,12 +4,14 @@
 
 *Building production AI systems and multi-agent workflows. Backend-first, clean architecture, scalable by design.*
 
-**Connect with me**
+**CONNECT WITH ME:**
 
 <p>
   <a href="https://github.com/anas0709"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/anasahmadk/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://www.instagram.com/anaskaleeem"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
   &nbsp;
   <a href="mailto:anasahmad0709@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
 </p>
