@@ -38,25 +38,43 @@ Currently based in **Houston** and building the AI agent platform at Katy ISD (8
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Languages and Tools
 
-### Backend-Focused Stack
+### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,cpp,postgres" alt="Backend Stack" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,cpp,php,laravel,spring,java,go,nestjs,express,fastapi,flask" alt="Backend" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui" alt="Frontend" />
 </p>
 
 ### Frameworks & AI
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,spring,express,pytorch,react,nextjs,tailwind" alt="Frameworks & AI" />
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" style="vertical-align: middle;" />
 </p>
 
-### Infrastructure & Tools
+### Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,postgres,redis,supabase,postman" alt="Infrastructure & Tools" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="Database" />
+</p>
+
+### Cloud Servers
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,firebase,vercel,redis,supabase" alt="Cloud Servers" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,vscode,postman,linux,idea" alt="Tools" />
 </p>
 
 > I'm proficient with frontend technologies and modern build tools, but my true passion lies in backend and AI systems: where structure, logic, and performance matter most. While I can create polished user interfaces and work with frameworks like React and Next.js, what really excites me is architecting robust server-side infrastructure, designing multi-agent workflows, and building production ML pipelines that scale.
