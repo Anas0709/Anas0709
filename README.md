@@ -72,7 +72,7 @@ Currently based in **Houston** and building the AI agent platform at Katy ISD (8
 ## 📁 Past Projects
 
 - 🤖 [**Enterprise Intelligence Agent**](https://github.com/Anas0709/enterprise-intelligence-agent) – Backend AI chatbot connecting enterprise data, SQL analytics, and ML churn prediction. FastAPI, OpenAI tool-calling, scikit-learn, Docker.
-- 📚 [**PinDrop**](https://github.com/Anas0709/PinDrop) – AI study assistant Chrome extension. GPT-4o-powered hints, explanations, and reasoning for highlighted study content. Node.js backend + extension frontend.
+- 📍 [**PinDrop**](https://github.com/Anas0709/PinDrop) – AI study assistant Chrome extension. GPT-4o-powered hints, explanations, and reasoning for highlighted study content. Node.js backend + extension frontend.
 - 📋 [**Feature Prioritizer**](https://github.com/Anas0709/feature-prioritizer) – Interactive web app for data-driven product feature prioritization using RICE and MoSCoW frameworks. Next.js, TypeScript, Tailwind CSS, Chart.js.
 
 ---
