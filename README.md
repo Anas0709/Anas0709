@@ -40,35 +40,17 @@ Currently based in **Houston** and building the AI agent platform at Katy ISD (8
 
 ## 🛠️ Languages and Tools
 
-### Backend
+### Languages & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,cpp,php,laravel,spring,java,go,nestjs,express,fastapi,flask" alt="Backend" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui" alt="Frontend" />
-</p>
-
-### Frameworks & AI
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,cpp,php,laravel,spring,java,go,nestjs,express,fastapi,flask,react,nextjs,redux,tailwind,materialui,pytorch" alt="Languages & Frameworks" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" style="vertical-align: middle;" />
 </p>
 
-### Database
+### Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="Database" />
-</p>
-
-### Cloud Servers
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,firebase,vercel,redis,supabase" alt="Cloud Servers" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,gcp,azure,firebase,vercel,redis,supabase" alt="Infrastructure" />
 </p>
 
 ### Tools
