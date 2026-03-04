@@ -10,6 +10,12 @@
 
 I'm a backend-focused engineer with a strong interest in **AI systems** and **agent frameworks**. I care about clean architecture, scalable design, and building things that last. I'm currently diving deep into long-term AI agents, backend refinement, and system design, and I'm always learning and iterating.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anas0709/Anas0709/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anas0709/Anas0709/output/github-snake.svg">
+  <img alt="contribution graph" src="https://raw.githubusercontent.com/Anas0709/Anas0709/output/github-snake.svg">
+</picture>
+
 ---
 
 ## 💡 What Drives Me
@@ -63,13 +69,9 @@ I'm a backend-focused engineer with a strong interest in **AI systems** and **ag
 
 ---
 
-## 📊 Contribution Graph
+## 📊 Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anas0709/Anas0709/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anas0709/Anas0709/output/github-snake.svg">
-  <img alt="contribution graph" src="https://raw.githubusercontent.com/Anas0709/Anas0709/output/github-snake.svg">
-</picture>
+*GitHub stats and contribution graph live here once the profile is published.*
 
 ---
 
