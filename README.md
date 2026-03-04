@@ -4,6 +4,14 @@
 
 *Building production AI systems and multi-agent workflows. Backend-first, clean architecture, scalable by design.*
 
+<p>
+  <a href="https://github.com/anas0709"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/anasahmadk/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:anasahmad0709@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -59,7 +67,9 @@ Currently based in **Houston** and building the AI agent platform at Katy ISD (8
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-> I'm proficient with frontend and modern tooling, but my passion is backend and AI systems: architecting robust server-side infrastructure, multi-agent workflows, and production ML pipelines.
+> I'm proficient with frontend technologies and modern build tools, but my true passion lies in backend and AI systems: where structure, logic, and performance matter most. While I can create polished user interfaces and work with frameworks like React and Next.js, what really excites me is architecting robust server-side infrastructure, designing multi-agent workflows, and building production ML pipelines that scale.
+>
+> **Note:** I also work with AI-assisted development tools (Cursor, Claude, GitHub Copilot) and enjoy hands-on experimentation with embeddings, RAG systems, and LLM automation.
 
 ---
 
@@ -80,18 +90,6 @@ Currently based in **Houston** and building the AI agent platform at Katy ISD (8
 - 🤖 [**Enterprise Intelligence Agent**](https://github.com/Anas0709/enterprise-intelligence-agent) – Backend AI chatbot connecting enterprise data, SQL analytics, and ML churn prediction. FastAPI, OpenAI tool-calling, scikit-learn, Docker.
 - 📍 [**PinDrop**](https://github.com/Anas0709/PinDrop) – AI study assistant Chrome extension. GPT-4o-powered hints, explanations, and reasoning for highlighted study content. Node.js backend + extension frontend.
 - 📋 [**Feature Prioritizer**](https://github.com/Anas0709/feature-prioritizer) – Interactive web app for data-driven product feature prioritization using RICE and MoSCoW frameworks. Next.js, TypeScript, Tailwind CSS, Chart.js.
-
----
-
-## 🌐 Connect With Me
-
-### Main Links
-
-[![GitHub](https://img.shields.io/badge/GitHub-anas0709-181717?style=flat-square&logo=github)](https://github.com/anas0709) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anas_Ahmad-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anasahmadk/)
-
-### Professional Contact
-
-- **General inquiries:** [anasahmad0709@gmail.com](mailto:anasahmad0709@gmail.com)
 
 ---
 
