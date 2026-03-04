@@ -2,23 +2,23 @@
 
 **🧑‍💻 Backend Engineer · 🤖 AI Systems · 🏗️ Clean Architecture**
 
-*Building scalable backend systems and AI agent frameworks — focused on long-term maintainability and composable design.*
+*Building scalable backend systems and AI agent frameworks, focused on long-term maintainability and composable design.*
 
 ---
 
 ## 🚀 About Me
 
-I'm a backend-focused engineer with a strong interest in **AI systems** and **agent frameworks**. I care about clean architecture, scalable design, and building things that last. I'm currently diving deep into long-term AI agents, backend refinement, and system design — and I'm always learning and iterating.
+I'm a backend-focused engineer with a strong interest in **AI systems** and **agent frameworks**. I care about clean architecture, scalable design, and building things that last. I'm currently diving deep into long-term AI agents, backend refinement, and system design, and I'm always learning and iterating.
 
 ---
 
 ## 💡 What Drives Me
 
-- 🏗️ **Clean backend architecture** — modular, testable, maintainable
-- 🤖 **AI systems & agent frameworks** — composable agents, clear failure boundaries
-- 📐 **System design** — thinking in components, data flows, and failure modes
-- 🔧 **Long-term maintainability** — quality over quick wins
-- 🌱 **Growing in public** — building toward meaningful open source contributions
+- 🏗️ **Clean backend architecture**: modular, testable, maintainable
+- 🤖 **AI systems & agent frameworks**: composable agents, clear failure boundaries
+- 📐 **System design**: thinking in components, data flows, and failure modes
+- 🔧 **Long-term maintainability**: quality over quick wins
+- 🌱 **Growing in public**: building toward meaningful open source contributions
 
 ---
 
@@ -51,11 +51,15 @@ I'm a backend-focused engineer with a strong interest in **AI systems** and **ag
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect With Me
 
-- **GitHub** — You're here
-- **LinkedIn** — [linkedin.com/in/anasahmadk](https://www.linkedin.com/in/anasahmadk/)
-- **Email** — anasahmad0709@gmail.com
+### Main Links
+
+[![GitHub](https://img.shields.io/badge/GitHub-anas0709-181717?style=flat-square&logo=github)](https://github.com/anas0709) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anas_Ahmad-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anasahmadk/)
+
+### Professional Contact
+
+- **General inquiries:** [anasahmad0709@gmail.com](mailto:anasahmad0709@gmail.com)
 
 ---
 
