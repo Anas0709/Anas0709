@@ -43,7 +43,7 @@ Currently based in **Houston, TX** and building the AI agent platform at Katy IS
 ### Languages & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,cpp,php,laravel,spring,java,go,nestjs,express,fastapi,flask,react,nextjs,redux,tailwind,materialui,pytorch" alt="Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,cpp,php,laravel,spring,java,go,swift,flutter,nestjs,express,fastapi,flask,react,nextjs,redux,tailwind,materialui,pytorch" alt="Languages & Frameworks" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" style="vertical-align: middle;" />
 </p>
 
@@ -83,8 +83,8 @@ Currently based in **Houston, TX** and building the AI agent platform at Katy IS
 - <img src="https://cdn.simpleicons.org/react" width="20" height="20" alt="React" /> <img src="https://cdn.simpleicons.org/meta" width="20" height="20" alt="Meta" /> [**React**](https://github.com/facebook/react) *(Meta)* – Fixed regression in concurrent rendering for edge cases
 - <img src="https://cdn.simpleicons.org/langchain" width="20" height="20" alt="LangChain" /> [**LangChain**](https://github.com/langchain-ai/langchain) – Added support for streaming in SQL agent
 - <img src="https://cdn.simpleicons.org/tensorflow" width="20" height="20" alt="TensorFlow" /> <img src="https://raw.githubusercontent.com/Anas0709/Anas0709/main/assets/google-color.svg" width="20" height="20" alt="Google" /> [**TensorFlow**](https://github.com/tensorflow/tensorflow) *(Google)* – Fixed gradient computation for custom layers in TF 2.x
+- <img src="https://cdn.simpleicons.org/swift" width="20" height="20" alt="Swift" /> <img src="https://cdn.simpleicons.org/apple" width="20" height="20" alt="Apple" /> [**Swift**](https://github.com/apple/swift) *(Apple)* – Improved diagnostics for generic constraint resolution
 - <img src="https://cdn.simpleicons.org/fastapi" width="20" height="20" alt="FastAPI" /> [**FastAPI**](https://github.com/tiangolo/fastapi) – Improved OpenAPI schema generation for nested Pydantic models
-- <img src="https://cdn.simpleicons.org/opensearch" width="20" height="20" alt="OpenSearch" /> <img src="https://raw.githubusercontent.com/Anas0709/Anas0709/main/assets/aws-color.svg" width="20" height="20" alt="Amazon" /> [**OpenSearch**](https://github.com/opensearch-project/OpenSearch) *(Amazon)* – Improved query performance for nested aggregations
 - <img src="https://cdn.simpleicons.org/typescript" width="20" height="20" alt="TypeScript" /> <img src="https://raw.githubusercontent.com/Anas0709/Anas0709/main/assets/microsoft-color.svg" width="20" height="20" alt="Microsoft" /> [**TypeScript**](https://github.com/microsoft/TypeScript) *(Microsoft)* – Fixed type inference for conditional mapped types
 - <img src="https://cdn.simpleicons.org/kubernetes" width="20" height="20" alt="Kubernetes" /> [**Kubernetes**](https://github.com/kubernetes/kubernetes) *(CNCF)* – Documentation and Helm chart fixes for ingress controller
 - <img src="https://cdn.simpleicons.org/pandas" width="20" height="20" alt="Pandas" /> [**Pandas**](https://github.com/pandas-dev/pandas) *(NumFOCUS)* – Performance fix for groupby on nullable dtypes
