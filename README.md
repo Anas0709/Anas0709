@@ -88,7 +88,7 @@ Currently based in **Houston, TX** and building the AI agent platform at Katy IS
 
 ## 📊 Stats
 
-*GitHub stats and contribution graph live here once the profile is published.*
+<img src="https://github-profile-svg.vercel.app/api/profile?username=Anas0709&theme=onedark&rank=-C" width="100%" alt="GitHub Stats" />
 
 ---
 
