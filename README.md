@@ -78,20 +78,22 @@ Currently based in **Houston, TX** and building the AI agent platform at Katy IS
 
 ---
 
+## ⭐ Open Source Contributions
+
+I believe in giving back to the community that has taught me so much:
+
+- <img src="https://cdn.simpleicons.org/meta" width="20" height="20" alt="Meta" /> [**React**](https://github.com/facebook/react) *(Meta)* – Fixed regression in concurrent rendering for edge cases
+- <img src="https://cdn.simpleicons.org/langchain" width="20" height="20" alt="LangChain" /> [**LangChain**](https://github.com/langchain-ai/langchain) – Added support for streaming in SQL agent
+- <img src="https://cdn.simpleicons.org/fastapi" width="20" height="20" alt="FastAPI" /> [**FastAPI**](https://github.com/tiangolo/fastapi) – Improved OpenAPI schema generation for nested Pydantic models
+- <img src="https://cdn.simpleicons.org/pandas" width="20" height="20" alt="Pandas" /> [**Pandas**](https://github.com/pandas-dev/pandas) *(NumFOCUS)* – Performance fix for groupby on nullable dtypes
+
+---
+
 ## 🗂️ Past Projects
 
 - 🤖 [**Enterprise Intelligence Agent**](https://github.com/Anas0709/enterprise-intelligence-agent) – Backend AI chatbot connecting enterprise data, SQL analytics, and ML churn prediction. FastAPI, OpenAI tool-calling, scikit-learn, Docker.
 - 📍 [**PinDrop**](https://github.com/Anas0709/PinDrop) – AI study assistant Chrome extension. GPT-4o-powered hints, explanations, and reasoning for highlighted study content. Node.js backend + extension frontend.
 - 📋 [**Feature Prioritizer**](https://github.com/Anas0709/feature-prioritizer) – Interactive web app for data-driven product feature prioritization using RICE and MoSCoW frameworks. Next.js, TypeScript, Tailwind CSS, Chart.js.
-
----
-
-## ⭐ Open Source Contributions
-
-- 📦 [**React**](https://github.com/facebook/react) – Fixed regression in concurrent rendering for edge cases
-- 🤖 [**LangChain**](https://github.com/langchain-ai/langchain) – Added support for streaming in SQL agent
-- 🐛 [**FastAPI**](https://github.com/tiangolo/fastapi) – Improved OpenAPI schema generation for nested Pydantic models
-- 📊 [**Pandas**](https://github.com/pandas-dev/pandas) – Performance fix for groupby on nullable dtypes
 
 ---
 
