@@ -4,6 +4,8 @@
 
 *Building production AI systems and multi-agent workflows. Backend-first, clean architecture, scalable by design.*
 
+**Connect with me**
+
 <p>
   <a href="https://github.com/anas0709"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
   &nbsp;
