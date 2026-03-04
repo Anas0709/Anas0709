@@ -43,7 +43,8 @@ Currently based in **Houston, TX** and building the AI agent platform at Katy IS
 ### Languages & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,cpp,php,laravel,spring,java,go,nestjs,express,fastapi,flask,react,nextjs,redux,tailwind,materialui,pytorch" alt="Languages & Frameworks" /><img src="https://skills.syvixor.com/api/icons?i=langchain" alt="LangChain" style="vertical-align: middle;" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,cpp,php,laravel,spring,java,go,nestjs,express,fastapi,flask,react,nextjs,redux,tailwind,materialui,pytorch" alt="Languages & Frameworks" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" style="vertical-align: middle;" />
 </p>
 
 ### Infrastructure
