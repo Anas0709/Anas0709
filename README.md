@@ -10,11 +10,7 @@
 
 I'm a backend-focused engineer with a strong interest in **AI systems** and **agent frameworks**. I care about clean architecture, scalable design, and building things that last. I'm currently diving deep into long-term AI agents, backend refinement, and system design, and I'm always learning and iterating.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anas0709/Anas0709/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anas0709/Anas0709/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Anas0709/Anas0709/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://pacman.abozanona.me?username=Anas0709" alt="pacman contribution graph" width="100%">
 
 ---
 
