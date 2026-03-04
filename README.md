@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi, I'm Anas 👋
 
-<!--
-**Anas0709/Anas0709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🧑‍💻 Backend Engineer · 🤖 AI Systems · 🏗️ Clean Architecture**
 
-Here are some ideas to get you started:
+*Building scalable backend systems and AI agent frameworks — focused on long-term maintainability and composable design.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I'm a backend-focused engineer with a strong interest in **AI systems** and **agent frameworks**. I care about clean architecture, scalable design, and building things that last. I'm currently diving deep into long-term AI agents, backend refinement, and system design — and I'm always learning and iterating.
+
+---
+
+## 💡 What Drives Me
+
+- 🏗️ **Clean backend architecture** — modular, testable, maintainable
+- 🤖 **AI systems & agent frameworks** — composable agents, clear failure boundaries
+- 📐 **System design** — thinking in components, data flows, and failure modes
+- 🔧 **Long-term maintainability** — quality over quick wins
+- 🌱 **Growing in public** — building toward meaningful open source contributions
+
+---
+
+## 🛠️ Tech Stack
+
+### Core
+
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | Python, Go, JavaScript/TypeScript, SQL |
+| **Backend** | FastAPI, Node.js |
+| **AI / ML** | LangChain, agent frameworks |
+| **Infrastructure** | Docker, AWS, GCP |
+
+### Tooling
+
+- Git · VSCode/Cursor · Linux/macOS
+
+---
+
+## 📈 What I'm Working On
+
+| Focus | Status |
+|-------|--------|
+| Long-term AI Agent Framework | 🚧 In Progress |
+| Backend architecture & system design | 🚧 Learning & building |
+| Open source contributions | 📋 On the roadmap |
+
+*More projects coming as I build. I prefer steady, meaningful work over rushing to fill a portfolio.*
+
+---
+
+## 🌐 Connect
+
+- **GitHub** — You're here
+- **LinkedIn** — *[Add your LinkedIn URL]*
+- **Twitter / X** — *[Add if you use it]*
+- **Email** — *[Add your email for professional contact]*
+
+---
+
+## 📊 Stats
+
+*GitHub stats and contribution graph live here once the profile is published.*
+
+---
+
+💬 *Thanks for stopping by. Always open to interesting conversations about backend, AI systems, or building things the right way.*
