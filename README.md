@@ -44,7 +44,7 @@ Currently based in **Houston, TX** and building the AI agent platform at Katy IS
 
 <p>
   <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,cpp,php,laravel,spring,java,go,nestjs,express,fastapi,flask,react,nextjs,redux,tailwind,materialui,pytorch" alt="Languages & Frameworks" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langchain.svg" alt="LangChain" height="48" style="vertical-align: middle;" />
+  <img src="https://skills.syvixor.com/api/icons?i=langchain" alt="LangChain" style="vertical-align: middle;" />
 </p>
 
 ### Infrastructure
@@ -57,10 +57,7 @@ Currently based in **Houston, TX** and building the AI agent platform at Katy IS
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,vscode,postman,linux,idea" alt="Tools" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/cursor.svg" alt="Cursor" height="48" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/anthropic.svg" alt="Anthropic" height="48" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" alt="OpenAI" height="48" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/gemini.svg" alt="Gemini" height="48" />
+  <img src="https://skills.syvixor.com/api/icons?i=cursor,claudeai,openai,googlegemini" alt="AI Tools" />
 </p>
 
 > 💡 I'm proficient with frontend technologies and modern build tools, but my true passion lies in backend and AI systems: where structure, logic, and performance matter most. While I can create polished user interfaces and work with frameworks like React and Next.js, what really excites me is architecting robust server-side infrastructure, designing multi-agent workflows, and building production ML pipelines that scale.
