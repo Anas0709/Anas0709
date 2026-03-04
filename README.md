@@ -69,7 +69,7 @@ Currently based in **Houston** and building the AI agent platform at Katy ISD (8
 
 ---
 
-## 📁 Featured Projects
+## 📁 Past Projects
 
 | Project | Description |
 |---------|-------------|
