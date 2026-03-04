@@ -54,9 +54,8 @@ I'm a backend-focused engineer with a strong interest in **AI systems** and **ag
 ## 🌐 Connect
 
 - **GitHub** — You're here
-- **LinkedIn** — *[Add your LinkedIn URL]*
-- **Twitter / X** — *[Add if you use it]*
-- **Email** — *[Add your email for professional contact]*
+- **LinkedIn** — [linkedin.com/in/anasahmadk](https://www.linkedin.com/in/anasahmadk/)
+- **Email** — anasahmad0709@gmail.com
 
 ---
 
