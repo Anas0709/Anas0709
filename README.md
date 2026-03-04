@@ -63,7 +63,7 @@ Currently based in **Houston** and building the AI agent platform at Katy ISD (8
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| **Hekimarisk** | AI-powered platform | 🚧 In Progress |
+| **Hekimarisk** | AI-native geopolitical & supply chain risk intelligence platform for Africa-focused decision-makers | 🚧 In Progress |
 | **MedGrid** | AI-powered medical education platform with RAG-driven adaptive learning, 1,200+ students | 🚧 In Progress |
 | **Katy ISD** | District-wide AI agent platform: multi-agent call routing, building kiosks, drone surveillance | 🚧 In Progress |
 
