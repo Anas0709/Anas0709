@@ -63,9 +63,13 @@ I'm a backend-focused engineer with a strong interest in **AI systems** and **ag
 
 ---
 
-## 📊 Stats
+## 📊 Contribution Graph
 
-*GitHub stats and contribution graph live here once the profile is published.*
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anas0709/Anas0709/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anas0709/Anas0709/output/github-snake.svg">
+  <img alt="contribution graph" src="https://raw.githubusercontent.com/Anas0709/Anas0709/output/github-snake.svg">
+</picture>
 
 ---
 
