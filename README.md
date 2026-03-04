@@ -103,7 +103,7 @@ Currently based in **Houston, TX** and building the AI agent platform at Katy IS
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anas0709/Anas0709/main/assets/banner.png" alt="Adventure awaits" width="100%" style="max-width:100%;height:auto;display:block;margin:0 auto" />
+  <img src="https://raw.githubusercontent.com/Anas0709/Anas0709/main/assets/banner-dragon.png" alt="Adventure awaits" width="100%" style="max-width:100%;height:auto;display:block;margin:0 auto" />
 </p>
 
 ---
