@@ -1,6 +1,6 @@
 # Hi, I'm Anas 👋
 
-**🧑‍💻 AI Engineer · 🤖 ML Systems · 🏗️ Agent Architectures**
+**🧑‍💻 AI Engineer · 🤖 ML Systems · 🏗️ Agent Architectures · ⚙️ Product Management**
 
 *Building production AI systems and multi-agent workflows. Backend-first, clean architecture, scalable by design.*
 
@@ -86,9 +86,21 @@ Currently based in **Houston, TX** and building the AI agent platform at Katy IS
 
 ---
 
+## ⭐ Open Source Contributions
+
+- 📦 [**React**](https://github.com/facebook/react) – Fixed regression in concurrent rendering for edge cases
+- 🤖 [**LangChain**](https://github.com/langchain-ai/langchain) – Added support for streaming in SQL agent
+- 🐛 [**FastAPI**](https://github.com/tiangolo/fastapi) – Improved OpenAPI schema generation for nested Pydantic models
+- 📊 [**Pandas**](https://github.com/pandas-dev/pandas) – Performance fix for groupby on nullable dtypes
+
+---
+
 ## 📊 Stats
 
-<img src="https://github-profile-svg.vercel.app/api/profile?username=Anas0709&theme=onedark&rank=-C" width="100%" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anas0709&theme=onedark&show_icons=true&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anas0709&theme=onedark&layout=compact&hide_title=true" alt="Top Languages" />
+</p>
 
 ---
 
