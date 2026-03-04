@@ -102,11 +102,8 @@ Currently based in **Houston, TX** and building the AI agent platform at Katy IS
 
 ---
 
-## 📊 Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anas0709&theme=onedark&show_icons=true&hide_title=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anas0709&theme=onedark&layout=compact&hide_title=true" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/Anas0709/Anas0709/main/assets/banner.png" alt="Adventure awaits" width="100%" style="max-width:100%;height:auto;display:block;margin:0 auto" />
 </p>
 
 ---
