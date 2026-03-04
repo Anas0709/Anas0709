@@ -8,7 +8,9 @@
 
 ## 🚀 About Me
 
-I'm **Anas**, an AI Engineer at Katy ISD where I deploy Texas's first district-wide AI agent platform across 80+ campuses. I'm also the founder of **MedGrid**, an AI-powered medical education platform serving 1,200+ students. I specialize in multi-agent systems, LLM automation, and backend infrastructure. BS in Computer Information Systems from the University of Houston, with certs in AWS, Google ML Engineer, and TensorFlow.
+Hi! I'm **Anas**. I'm a backend developer who blends systems thinking with AI/ML. I specialize in building reliable, scalable systems with a strong focus on multi-agent workflows, LLM automation, and clean architecture. While I know my way around frontend, what truly drives me is designing backend infrastructure and production-ready AI pipelines.
+
+Currently based in **Houston** and building the AI agent platform at Katy ISD (80+ campuses), while scaling **MedGrid**, an AI-powered medical education platform serving 1,200+ students.
 
 <img src="https://pacman.abozanona.me?username=Anas0709" alt="pacman contribution graph" width="100%">
 
