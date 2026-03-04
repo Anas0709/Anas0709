@@ -63,7 +63,7 @@ Currently based in **Houston** and building the AI agent platform at Katy ISD (8
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| **Hekimarisk** | AI-native geopolitical & supply chain risk intelligence platform for Africa-focused decision-makers | 🚧 In Progress |
+| **HekimaRisk** <br> <img src="https://raw.githubusercontent.com/Anas0709/Anas0709/main/assets/hekimarisk.png" width="80" /> | AI-native geopolitical & supply chain risk intelligence platform for Africa-focused decision-makers | 🚧 In Progress |
 | **MedGrid** <br> <img src="https://raw.githubusercontent.com/Anas0709/Anas0709/main/assets/medgrid.png" width="80" /> | AI-powered medical education platform with RAG-driven adaptive learning, 1,200+ students | 🚧 In Progress |
 | **Katy ISD** <br> <img src="https://raw.githubusercontent.com/Anas0709/Anas0709/main/assets/katyid.png" width="80" /> | District-wide AI agent platform: multi-agent call routing, building kiosks, drone surveillance | 🚧 In Progress |
 
