@@ -60,6 +60,7 @@ Currently based in **Houston, TX** and building the AI agent platform at Katy IS
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,vscode,postman,linux,idea" alt="Tools" />
+  <img src="https://raw.githubusercontent.com/Anas0709/Anas0709/main/assets/n8n-color.svg" width="48" height="48" alt="n8n" style="vertical-align: middle;" />
   <img src="https://skills.syvixor.com/api/icons?i=cursor,claudeai,openai,chatgpt,googlegemini" alt="AI Tools" />
 </p>
 
