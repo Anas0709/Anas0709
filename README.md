@@ -99,6 +99,7 @@ Currently based in **Houston, TX** and building the AI agent platform at Katy IS
 
 ## 🗂️ Past Projects
 
+- <img src="https://raw.githubusercontent.com/Anas0709/Anas0709/main/assets/perseushealthai.png" width="24" height="24" alt="Perseus Health AI" style="vertical-align: middle;" /> [**Perseus Health AI**](https://perseushealthai.com/) – AI Voice Agents & Chatbots for healthcare. Streamlining patient interactions, appointment scheduling, and workflows for medical facilities.
 - 🤖 [**Enterprise Intelligence Agent**](https://github.com/Anas0709/enterprise-intelligence-agent) – Backend AI chatbot connecting enterprise data, SQL analytics, and ML churn prediction. FastAPI, OpenAI tool-calling, scikit-learn, Docker.
 - 📍 [**PinDrop**](https://github.com/Anas0709/PinDrop) – AI study assistant Chrome extension. GPT-4o-powered hints, explanations, and reasoning for highlighted study content. Node.js backend + extension frontend.
 - 📋 [**Feature Prioritizer**](https://github.com/Anas0709/feature-prioritizer) – Interactive web app for data-driven product feature prioritization using RICE and MoSCoW frameworks. Next.js, TypeScript, Tailwind CSS, Chart.js.
