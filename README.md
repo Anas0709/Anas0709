@@ -20,9 +20,9 @@
 
 ## 🚀 About Me
 
-Hi! I'm **Anas**. I'm a backend developer who blends systems thinking with AI/ML. I specialize in building reliable, scalable systems with a strong focus on multi-agent workflows, LLM automation, and clean architecture. While I know my way around frontend, what truly drives me is designing backend infrastructure and production-ready AI pipelines.
+Hi! I'm **Anas**. I sit at the intersection of product and engineering. I've built production AI systems from scratch, and now I bring that technical depth to product strategy. I specialize in multi-agent workflows, LLM automation, and scalable backend architecture, but what I care most about is *why* we're building something and *who* it serves.
 
-Currently based in **Houston, TX** and building the AI agent platform at Katy ISD (80+ campuses), while scaling **MedGrid**, an AI-powered medical education platform serving 1,200+ students.
+Currently based in **Houston, TX**, leading the AI agent platform at Katy ISD (80+ campuses), owning roadmap, stakeholder alignment, and technical execution, while scaling **MedGrid**, an AI-powered medical education platform serving 1,200+ students.
 
 <img src="https://pacman.abozanona.me?username=Anas0709" alt="pacman contribution graph" width="100%">
 
@@ -30,7 +30,10 @@ Currently based in **Houston, TX** and building the AI agent platform at Katy IS
 
 ## 💡 What Drives Me
 
-- 🚀 **Shaping the future of tech**: building systems and tools that push what's possible
+- 🎯 **Understanding users deeply**: building starts with knowing who you're building for
+- 🚀 **From 0-to-1 product thinking**: scoping, prioritizing, shipping what matters
+- 🤝 **Cross-functional alignment**: bridging engineering, design, and business
+- 📊 **Data-driven decisions**: metrics, experimentation, user feedback loops
 - 🤖 **AI systems & agent frameworks**: composable agents, clear failure boundaries
 - 📐 **System design**: thinking in components, data flows, and failure modes
 - 🏗️ **Clean backend architecture**: modular, testable, maintainable
@@ -64,7 +67,7 @@ Currently based in **Houston, TX** and building the AI agent platform at Katy IS
   <img src="https://raw.githubusercontent.com/Anas0709/Anas0709/main/assets/mark-white.png" width="48" height="48" alt="Mark" style="vertical-align: middle;" />
 </p>
 
-> 💡 I'm proficient with frontend technologies and modern build tools, but my true passion lies in backend and AI systems: where structure, logic, and performance matter most. While I can create polished user interfaces and work with frameworks like React and Next.js, what really excites me is architecting robust server-side infrastructure, designing multi-agent workflows, and building production ML pipelines that scale.
+> 💡 I'm proficient across the full stack, but my true passion sits at the intersection of product and engineering — understanding what to build, then architecting it right. I bring deep technical fluency in backend systems, multi-agent workflows, and production ML pipelines, paired with a product mindset focused on user impact, prioritization, and shipping what matters.
 >
 > **Note:** I also work with AI-assisted development tools (Cursor, Claude, GitHub Copilot) and enjoy hands-on experimentation with embeddings, RAG systems, and LLM automation.
 
@@ -76,9 +79,9 @@ Currently based in **Houston, TX** and building the AI agent platform at Katy IS
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| <img src="https://raw.githubusercontent.com/Anas0709/Anas0709/main/assets/hekimarisk.png" width="48" /> <br> <span style="font-family: Georgia, serif; font-weight: 600;">**HekimaRisk**</span> | AI-native geopolitical & supply chain risk intelligence platform for Africa-focused decision-makers | 🚧 In Progress |
-| <img src="https://raw.githubusercontent.com/Anas0709/Anas0709/main/assets/medgrid.png" width="48" /> <br> <span style="font-family: Georgia, serif; font-weight: 600;">**MedGrid**</span> | AI-powered medical education platform with RAG-driven adaptive learning, 1,200+ students [medgriddy.com](https://www.medgriddy.com/) | 🚧 In Progress |
-| <img src="https://raw.githubusercontent.com/Anas0709/Anas0709/main/assets/katyid.png" width="48" /> <br> <span style="font-family: Georgia, serif; font-weight: 600;">**Katy ISD**</span> | District-wide AI agent platform: multi-agent call routing, building kiosks, drone surveillance | 🚧 In Progress |
+| <img src="https://raw.githubusercontent.com/Anas0709/Anas0709/main/assets/hekimarisk.png" width="48" /> <br> <span style="font-family: Georgia, serif; font-weight: 600;">**HekimaRisk**</span> | Defining product strategy for an AI-native risk intelligence platform — user research, feature scoping, and technical architecture for Africa-focused decision-makers | 🚧 In Progress |
+| <img src="https://raw.githubusercontent.com/Anas0709/Anas0709/main/assets/medgrid.png" width="48" /> <br> <span style="font-family: Georgia, serif; font-weight: 600;">**MedGrid**</span> | Product-led growth from 0 to 1,200+ students. Owning roadmap, user feedback loops, and AI-driven adaptive learning features [medgriddy.com](https://www.medgriddy.com/) | 🚧 In Progress |
+| <img src="https://raw.githubusercontent.com/Anas0709/Anas0709/main/assets/katyid.png" width="48" /> <br> <span style="font-family: Georgia, serif; font-weight: 600;">**Katy ISD**</span> | Leading product for a district-wide AI platform across 80+ campuses — stakeholder management, multi-agent call routing, kiosk UX, and prioritization across competing needs | 🚧 In Progress |
 
 ---
 
@@ -100,10 +103,10 @@ Currently based in **Houston, TX** and building the AI agent platform at Katy IS
 
 ## 🗂️ Past Projects
 
+- 📋 [**Feature Prioritizer**](https://github.com/Anas0709/feature-prioritizer) – Interactive web app for data-driven product feature prioritization using RICE and MoSCoW frameworks. Next.js, TypeScript, Tailwind CSS, Chart.js.
 - <img src="https://raw.githubusercontent.com/Anas0709/Anas0709/main/assets/perseushealthai.png" width="24" height="24" alt="Perseus Health AI" style="vertical-align: middle;" /> [**Perseus Health AI**](https://perseushealthai.com/) – AI Voice Agents & Chatbots for healthcare. Streamlining patient interactions, appointment scheduling, and workflows for medical facilities.
 - 🤖 [**Enterprise Intelligence Agent**](https://github.com/Anas0709/enterprise-intelligence-agent) – Backend AI chatbot connecting enterprise data, SQL analytics, and ML churn prediction. FastAPI, OpenAI tool-calling, scikit-learn, Docker.
 - 📍 [**PinDrop**](https://github.com/Anas0709/PinDrop) – AI study assistant Chrome extension. GPT-4o-powered hints, explanations, and reasoning for highlighted study content. Node.js backend + extension frontend.
-- 📋 [**Feature Prioritizer**](https://github.com/Anas0709/feature-prioritizer) – Interactive web app for data-driven product feature prioritization using RICE and MoSCoW frameworks. Next.js, TypeScript, Tailwind CSS, Chart.js.
 
 ---
 
@@ -113,4 +116,4 @@ Currently based in **Houston, TX** and building the AI agent platform at Katy IS
 
 ---
 
-💬 *Thanks for stopping by. Always open to interesting conversations about backend, AI systems, or building things the right way.*
+💬 *Thanks for stopping by. Always open to conversations about product strategy, AI systems, or the art of deciding what to build next.*
