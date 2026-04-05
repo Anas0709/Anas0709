@@ -85,22 +85,6 @@ Currently based in **Houston, TX**, leading the AI agent platform at Katy ISD (8
 
 ---
 
-## ⭐ Open Source Contributions
-
-- <img src="https://cdn.simpleicons.org/react" width="20" height="20" alt="React" /> <img src="https://cdn.simpleicons.org/meta" width="20" height="20" alt="Meta" /> [**React**](https://github.com/facebook/react) *(Meta)* – Fixed regression in concurrent rendering for edge cases
-- <img src="https://cdn.simpleicons.org/langchain" width="20" height="20" alt="LangChain" /> [**LangChain**](https://github.com/langchain-ai/langchain) – Added support for streaming in SQL agent
-- <img src="https://cdn.simpleicons.org/tensorflow" width="20" height="20" alt="TensorFlow" /> <img src="https://raw.githubusercontent.com/Anas0709/Anas0709/main/assets/google-color.svg" width="20" height="20" alt="Google" /> [**TensorFlow**](https://github.com/tensorflow/tensorflow) *(Google)* – Fixed gradient computation for custom layers in TF 2.x
-- <img src="https://cdn.simpleicons.org/nvidia" width="20" height="20" alt="Nvidia" /> [**RAPIDS**](https://github.com/rapidsai/cudf) *(Nvidia)* – Optimized GPU-accelerated DataFrame operations in cuDF
-- <img src="https://cdn.simpleicons.org/huggingface" width="20" height="20" alt="Hugging Face" /> [**Transformers**](https://github.com/huggingface/transformers) *(Hugging Face)* – Added tokenizer support for new model architectures
-- <img src="https://cdn.simpleicons.org/databricks" width="20" height="20" alt="Databricks" /> [**MLflow**](https://github.com/mlflow/mlflow) *(Databricks)* – Improved experiment tracking API for distributed runs
-- <img src="https://cdn.simpleicons.org/netflix" width="20" height="20" alt="Netflix" /> [**Chaos Monkey**](https://github.com/netflix/chaosmonkey) *(Netflix)* – Enhanced resilience testing for microservice failure scenarios
-- <img src="https://cdn.simpleicons.org/fastapi" width="20" height="20" alt="FastAPI" /> [**FastAPI**](https://github.com/tiangolo/fastapi) – Improved OpenAPI schema generation for nested Pydantic models
-- <img src="https://cdn.simpleicons.org/typescript" width="20" height="20" alt="TypeScript" /> <img src="https://raw.githubusercontent.com/Anas0709/Anas0709/main/assets/microsoft-color.svg" width="20" height="20" alt="Microsoft" /> [**TypeScript**](https://github.com/microsoft/TypeScript) *(Microsoft)* – Fixed type inference for conditional mapped types
-- <img src="https://cdn.simpleicons.org/kubernetes" width="20" height="20" alt="Kubernetes" /> [**Kubernetes**](https://github.com/kubernetes/kubernetes) *(CNCF)* – Documentation and Helm chart fixes for ingress controller
-- <img src="https://cdn.simpleicons.org/pandas" width="20" height="20" alt="Pandas" /> [**Pandas**](https://github.com/pandas-dev/pandas) *(NumFOCUS)* – Performance fix for groupby on nullable dtypes
-
----
-
 ## 🗂️ Past Projects
 
 - 📋 [**Feature Prioritizer**](https://github.com/Anas0709/feature-prioritizer) – Interactive web app for data-driven product feature prioritization using RICE and MoSCoW frameworks. Next.js, TypeScript, Tailwind CSS, Chart.js.
