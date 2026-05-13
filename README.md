@@ -22,7 +22,7 @@
 
 Hi! I'm **Anas**. I sit at the intersection of product and engineering. I've built production AI systems from scratch, and now I bring that technical depth to product strategy. I specialize in multi-agent workflows, LLM automation, and scalable backend architecture, but what I care most about is *why* we're building something and *who* it serves.
 
-Joining **Spot AI** in **San Francisco** to work on AI-powered video intelligence at scale. At **Katy ISD**, I led the district-wide AI agent platform across 80+ campuses — owning roadmap, stakeholder alignment, multi-agent call routing, and kiosk UX. I'm also defining product strategy for **HekimaRisk**, an AI-native risk intelligence platform for Africa-focused decision-makers, and scaling **MedGrid**, an AI-powered medical education platform serving 1,200+ students.
+Joining **Spot AI** in **San Francisco** to work on AI-powered video intelligence at scale. At **Katy ISD**, I led the district-wide AI agent platform across 80+ campuses, owning roadmap, stakeholder alignment, multi-agent call routing, and kiosk UX. I'm also defining product strategy for **HekimaRisk**, an AI-native risk intelligence platform for Africa-focused decision-makers, and scaling **MedGrid**, an AI-powered medical education platform serving 1,200+ students.
 
 <img src="https://pacman.abozanona.me?username=Anas0709" alt="pacman contribution graph" width="100%">
 
@@ -67,7 +67,7 @@ Joining **Spot AI** in **San Francisco** to work on AI-powered video intelligenc
   <img src="https://raw.githubusercontent.com/Anas0709/Anas0709/main/assets/mark-white.png" width="48" height="48" alt="Mark" style="vertical-align: middle;" />
 </p>
 
-> 💡 I'm proficient across the full stack, but my true passion sits at the intersection of product and engineering — understanding what to build, then architecting it right. I bring deep technical fluency in backend systems, multi-agent workflows, and production ML pipelines, paired with a product mindset focused on user impact, prioritization, and shipping what matters.
+> 💡 I'm proficient across the full stack, but my true passion sits at the intersection of product and engineering: understanding what to build, then architecting it right. I bring deep technical fluency in backend systems, multi-agent workflows, and production ML pipelines, paired with a product mindset focused on user impact, prioritization, and shipping what matters.
 >
 > **Note:** I also work with AI-assisted development tools (Cursor, Claude, GitHub Copilot) and enjoy hands-on experimentation with embeddings, RAG systems, and LLM automation.
 
@@ -79,10 +79,10 @@ Joining **Spot AI** in **San Francisco** to work on AI-powered video intelligenc
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| <img src="https://raw.githubusercontent.com/Anas0709/Anas0709/main/assets/spotai.png" width="48" /> <br> <span style="font-family: Georgia, serif; font-weight: 600;">**Spot AI**</span> | Joining the team in San Francisco to build AI-powered video intelligence — turning camera data into actionable insights for safety, operations, and security at enterprise scale [spot.ai](https://www.spot.ai/) | 🟢 Upcoming |
-| <img src="https://raw.githubusercontent.com/Anas0709/Anas0709/main/assets/hekimarisk.png" width="48" /> <br> <span style="font-family: Georgia, serif; font-weight: 600;">**HekimaRisk**</span> | Defining product strategy for an AI-native risk intelligence platform — user research, feature scoping, and technical architecture for Africa-focused decision-makers | 🚧 In Progress |
+| <img src="https://raw.githubusercontent.com/Anas0709/Anas0709/main/assets/spotai.png" width="48" /> <br> <span style="font-family: Georgia, serif; font-weight: 600;">**Spot AI**</span> | Joining the team in San Francisco to build AI-powered video intelligence, turning camera data into actionable insights for safety, operations, and security at enterprise scale [spot.ai](https://www.spot.ai/) | 🟢 Upcoming |
+| <img src="https://raw.githubusercontent.com/Anas0709/Anas0709/main/assets/hekimarisk.png" width="48" /> <br> <span style="font-family: Georgia, serif; font-weight: 600;">**HekimaRisk**</span> | Defining product strategy for an AI-native risk intelligence platform: user research, feature scoping, and technical architecture for Africa-focused decision-makers | 🚧 In Progress |
 | <img src="https://raw.githubusercontent.com/Anas0709/Anas0709/main/assets/medgrid.png" width="48" /> <br> <span style="font-family: Georgia, serif; font-weight: 600;">**MedGrid**</span> | Product-led growth from 0 to 1,200+ students. Owning roadmap, user feedback loops, and AI-driven adaptive learning features [medgriddy.com](https://www.medgriddy.com/) | 🚧 In Progress |
-| <img src="https://raw.githubusercontent.com/Anas0709/Anas0709/main/assets/katyid.png" width="48" /> <br> <span style="font-family: Georgia, serif; font-weight: 600;">**Katy ISD**</span> | Led product for a district-wide AI platform across 80+ campuses — stakeholder management, multi-agent call routing, kiosk UX, and prioritization across competing needs | ✅ Shipped |
+| <img src="https://raw.githubusercontent.com/Anas0709/Anas0709/main/assets/katyid.png" width="48" /> <br> <span style="font-family: Georgia, serif; font-weight: 600;">**Katy ISD**</span> | Led product for a district-wide AI platform across 80+ campuses: stakeholder management, multi-agent call routing, kiosk UX, and prioritization across competing needs | ✅ Shipped |
 
 ---
 
